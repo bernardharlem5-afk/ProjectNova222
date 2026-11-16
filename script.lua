@@ -26,7 +26,7 @@ Airflow.Themes.FatalBlue = {
     Error       = Color3.fromRGB(240, 120, 120),
 }
 
-Airflow.Assets.Logo = "rbxassetid://114259170836940"
+Airflow.Assets.Logo = "rbxthumb://type=Asset&id=10670510726&w=420&h=420"
 
 -- ============================================================
 -- GAME ID WHITELIST
